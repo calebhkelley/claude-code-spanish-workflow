@@ -1,0 +1,166 @@
+{
+  "curso": "SPAN 201",
+  "nota": "PROVISIONAL. A starting point built to be replaced as soon as Caleb supplies visual references. Deliberately not SPAN 212, since the two courses should not share a palette.",
+  "layout": "LAYOUT_WIDE",
+  "horaFormato": "12h",
+  "fonts": {
+    "titulo": "Univers Condensed",
+    "body": "Aptos",
+    "display": "Calisto MT"
+  },
+  "colors": {
+    "ink": "1C1A17",
+    "paper": "FDFCF7",
+    "grey": "716C63",
+    "hairline": "DED7C9"
+  },
+  "defaultAccent": "U1",
+  "accents": {
+    "U1": {
+      "nombre": "teal",
+      "hex": "1F5F63",
+      "tint": "E2ECEC"
+    },
+    "U2": {
+      "nombre": "ocre",
+      "hex": "9A6A16",
+      "tint": "F2E9D6"
+    },
+    "U3": {
+      "nombre": "ciruela",
+      "hex": "6A3050",
+      "tint": "EFE3EA"
+    },
+    "U4": {
+      "nombre": "musgo",
+      "hex": "445B2E",
+      "tint": "E7EBDF"
+    },
+    "U5": {
+      "nombre": "ladrillo",
+      "hex": "9C4326",
+      "tint": "F3E4DD"
+    },
+    "U6": {
+      "nombre": "pizarra",
+      "hex": "39434F",
+      "tint": "E5E8EC"
+    }
+  },
+  "type": {
+    "titulo": 32,
+    "tituloTracking": 2,
+    "subtitulo": 16,
+    "kicker": 10,
+    "kickerTracking": 3,
+    "cuerpo": 17,
+    "glosa": 12,
+    "caption": 10,
+    "chip": 9,
+    "chipTracking": 2,
+    "cita": 24,
+    "portadaTitulo": 34,
+    "portadaSub": 17,
+    "datosEtiqueta": 9,
+    "datosValor": 13,
+    "espacioParrafo": 9
+  },
+  "geometry": {
+    "slide": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "margen": {
+      "x": 0.75
+    },
+    "anchoContenido": 11.833,
+    "columnaTexto": {
+      "x": 0.75,
+      "w": 6.9
+    },
+    "panelLateral": {
+      "x": 8.23,
+      "y": 0,
+      "w": 5.1,
+      "h": 7.5
+    },
+    "vinieta": "25AA",
+    "cabecera": {
+      "y": 0.55,
+      "tick": {
+        "w": 0.22,
+        "h": 0.09,
+        "gap": 0.14
+      },
+      "tituloOffset": 0.34,
+      "tituloAlto": 0.85,
+      "reglaOffset": 1.3,
+      "reglaGrosor": 0.75
+    },
+    "cuerpo": {
+      "trasRegla": 0.2,
+      "trasChip": 0.16,
+      "pieAlto": 0.85
+    },
+    "chip": {
+      "h": 0.28,
+      "radio": 0.1,
+      "wMin": 1.5
+    },
+    "portada": {
+      "imagen": {
+        "x": 5.6,
+        "y": 0,
+        "w": 7.733,
+        "h": 7.5
+      },
+      "velo": {
+        "x": 5.1,
+        "w": 0.9,
+        "transparencia": 45
+      },
+      "texto": {
+        "x": 0.75,
+        "y": 1.85,
+        "w": 4.35
+      }
+    },
+    "oscura": {
+      "transparencia": 45
+    },
+    "cita": {
+      "x": 1.55,
+      "y": 2.35,
+      "w": 10.2,
+      "h": 3.2,
+      "filete": 0.06
+    },
+    "dosColumnas": {
+      "x": [
+        0.75,
+        7.05
+      ],
+      "y": 2.05,
+      "w": 5.53,
+      "h": 4.3,
+      "filete": 0.05
+    },
+    "banda": {
+      "x": [
+        0.75,
+        4.72,
+        8.69
+      ],
+      "y": 2.1,
+      "w": 3.62,
+      "alto": 2.55
+    },
+    "datos": {
+      "x": 0.75,
+      "y": 2.1,
+      "w": 6.6,
+      "h": 3.6,
+      "pad": 0.42
+    }
+  }
+}

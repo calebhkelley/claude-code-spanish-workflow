@@ -1,0 +1,213 @@
+{
+  "curso": "SPAN 212",
+  "titulo": "Lección 1 · «Tú me quieres blanca»",
+  "autor": "Caleb H. Kelley",
+  "fecha": "lunes, 31 de agosto de 2026",
+  "accent": "L1",
+  "duracionMin": 75,
+  "nota": "Worked example. Every slide carries its ventana in 24h HH:MM, a rotulo for the note header, and verbatim notas. The generator builds the note header line itself.",
+  "slides": [
+    {
+      "tipo": "portada",
+      "ventana": [
+        "16:00",
+        "16:04"
+      ],
+      "rotulo": "Entrada y encuadre",
+      "kicker": "Lección 1 · Golpe al corazón",
+      "titulo": "Tú me quieres blanca",
+      "subtitulo": "Alfonsina Storni, 1918",
+      "pie": "Buenos Aires, años veinte",
+      "velo": false,
+      "imagen": "imagenes/storni_sepia.jpg",
+      "notas": "ANTES DE QUE ENTREN\nProyector encendido con esta diapositiva. El poema fotocopiado, dieciocho copias, apilado en la primera mesa. Escribe en la pizarra, arriba a la derecha, «Tarea: Intrigas pp. 22-24 + Supersitio 1.2».\n\nGUION\n« Buenas tardes. Sentaos donde queráis, pero hoy vais a trabajar en parejas, así que buscad a alguien que tengáis al lado. »\n\n[Al bajar el ruido]\n\n« Empezamos la Lección 1. Se llama Golpe al corazón y trata del amor, sí, pero sobre todo de lo que la sociedad espera del amor y de quién puede quererse y cómo. Vamos a empezar con un poema de mil novecientos dieciocho, de una autora argentina que se llama Alfonsina Storni. El poema se titula Tú me quieres blanca y es un poema breve, directo y bastante enfadado. »\n\n« Antes de leerlo, quiero que sepáis una cosa. Este poema le habla a un hombre. Storni no lo esconde. Y le dice, más o menos, tú me pides una pureza que tú no te pides a ti mismo. Ese es todo el poema. »\n\nPARA TI\nNo adelantes la lectura. Solo el encuadre. La primera lectura en voz alta viene en la diapositiva cuatro.\n\nTRANSICIÓN\n« Mirad primero qué vamos a hacer hoy. »"
+    },
+    {
+      "tipo": "texto",
+      "ventana": [
+        "16:04",
+        "16:08"
+      ],
+      "rotulo": "Objetivos del día",
+      "kicker": "Hoy",
+      "titulo": "Lo que vamos a hacer",
+      "chip": "Intrigas p. 20",
+      "items": [
+        "Situar a Alfonsina Storni en su momento histórico",
+        "Leer «Tú me quieres blanca» en voz alta y por partes",
+        "Distinguir ser y estar en descripciones de personas",
+        "Escribir tres oraciones sobre el poema usando los dos verbos"
+      ],
+      "notas": "GUION\n« Cuatro cosas hoy. Primera, quién era Storni y por qué escribió esto en mil novecientos dieciocho y no en otro momento. Segunda, leemos el poema en voz alta, por partes, entre todos. Tercera, gramática, ser y estar, que es justo lo que necesitáis para hablar de este poema. Y cuarta, escribís tres oraciones vuestras y las comentamos. »\n\n« La gramática de hoy no es una interrupción del poema. Storni juega con ser y estar todo el tiempo. Cuando dice blanca, ¿está hablando de cómo es alguien o de cómo está alguien? Esa pregunta es el poema entero. »\n\nAVISO DE CONTENIDO\n« Una cosa antes de seguir. El poema habla de la pureza sexual que se le exigía a las mujeres y no a los hombres. No hay nada explícito, pero el tema está ahí. Si en algún momento preferís no participar en voz alta, no pasa nada, habladlo conmigo después de clase. »\n\nPARA TI\nDilo una vez, sin rodeos, y sigue. No lo repitas más adelante.\n\nTRANSICIÓN\n« Vamos con quién era. »"
+    },
+    {
+      "tipo": "panel",
+      "ventana": [
+        "16:08",
+        "16:16"
+      ],
+      "rotulo": "Sobre la autora",
+      "kicker": "Contexto",
+      "titulo": "Alfonsina Storni",
+      "chip": "Intrigas p. 20 · sobre la autora",
+      "imagen": "imagenes/storni_retrato.jpg",
+      "pie": "Buenos Aires, 1920",
+      "items": [
+        "Nace en Suiza en 1892, llega a Argentina de niña",
+        "Maestra, actriz, oficinista, periodista",
+        "Madre soltera en 1912, a los veinte años",
+        {
+          "text": "Publica cinco libros antes de los treinta y cinco",
+          "accent": true
+        },
+        "Se mueve en un ambiente literario casi enteramente masculino"
+      ],
+      "notas": "GUION\n« Alfonsina Storni nace en Suiza en mil ochocientos noventa y dos y llega a Argentina siendo muy pequeña. Su familia es pobre. Ella trabaja desde niña, en una fábrica, luego en un café que tenía la familia, y a los quince años se va con una compañía de teatro. Es maestra, es actriz, es oficinista, es periodista. Todo eso antes de los veinticinco. »\n\n« Y en mil novecientos doce, con veinte años, tiene un hijo sola. Madre soltera, en Buenos Aires, en mil novecientos doce. Pensad un momento en lo que eso significaba socialmente. No lo esconde y no se disculpa. »\n\n« Publica cinco libros antes de los treinta y cinco y se mueve en un mundo literario donde casi todos los que publican, los que deciden qué se publica y los que escriben las reseñas son hombres. »\n\nSI ALGUIEN PREGUNTA\nSobre su muerte en mil novecientos treinta y ocho. Responde con naturalidad, «se quitó la vida a los cuarenta y seis años, estaba enferma», y vuelve al poema. No lo conviertas en el tema de la clase.\n\nTRANSICIÓN\n« Con eso en la cabeza, leed el poema. »"
+    },
+    {
+      "tipo": "cita",
+      "ventana": [
+        "16:16",
+        "16:24"
+      ],
+      "rotulo": "Primera lectura",
+      "kicker": "«Tú me quieres blanca», 1918",
+      "titulo": "La primera estrofa",
+      "texto": "Tú me quieres alba,\nme quieres de espumas,\nme quieres de nácar.\nQue sea azucena\nsobre todas, casta.",
+      "pie": "Alfonsina Storni, El dulce daño, 1918",
+      "notas": "QUÉ HACER\nReparte el poema completo. Proyecta solo la primera estrofa. Lee tú los cinco primeros versos, despacio. Luego pide tres voluntarios para las estrofas siguientes.\n\nGUION\n« Escuchad primero, no leáis conmigo. »\n\n[Lees los cinco versos despacio, una sola vez]\n\n« Cinco versos y ya tenemos cuatro palabras para lo mismo. Alba, espumas, nácar, azucena. Las cuatro significan blanco. ¿Por qué cuatro? »\n\n[Deja tres o cuatro segundos de silencio real antes de aceptar una respuesta]\n\n« Porque la exigencia se repite. No se pide una vez, se pide todos los días y de todas las maneras. La forma del poema hace lo que dice el poema. »\n\n« Ahora vosotros. Necesito tres voces para las tres estrofas siguientes. Leed despacio, no importa la pronunciación perfecta, importa que se entienda. »\n\nRITMO\nUn minuto por lector como máximo. Si alguien se traba, termina el verso con él y pasa al siguiente.\n\nPARA TI\nLas respuestas que buscas en «por qué cuatro» son repetición, insistencia y acumulación. Cualquiera de las tres vale.\n\nTRANSICIÓN\n« Guardad el poema a mano. Lo necesitamos ahora mismo. »"
+    },
+    {
+      "tipo": "dos-columnas",
+      "ventana": [
+        "16:24",
+        "16:36"
+      ],
+      "rotulo": "Ser y estar",
+      "kicker": "Gramática",
+      "titulo": "Ser y estar en la descripción",
+      "columnas": [
+        {
+          "titulo": "Ser",
+          "items": [
+            "Identidad y definición",
+            "Origen y material",
+            "Característica que define a alguien",
+            "«Es blanca» describe qué es"
+          ]
+        },
+        {
+          "titulo": "Estar",
+          "items": [
+            "Estado y condición",
+            "Resultado de un cambio",
+            "Cómo se encuentra alguien ahora",
+            "«Está blanca» describe cómo está"
+          ]
+        }
+      ],
+      "notas": "GUION\n« Los dos se traducen igual al inglés y por eso cuestan. Pero la diferencia es sencilla si pensáis en dos preguntas distintas. Ser contesta a qué es esto. Estar contesta a cómo está esto ahora. »\n\n« Mirad los dos ejemplos de abajo, que son el poema. Si decimos ella es blanca, estamos diciendo que la blancura la define, que forma parte de lo que es. Si decimos ella está blanca, estamos diciendo que ahora mismo se encuentra así, y eso implica que antes no lo estaba y que después puede no estarlo. »\n\n« Storni escribe tú me quieres blanca. No dice ni una cosa ni la otra. Deja el verbo fuera. Y esa ambigüedad es deliberada, porque lo que denuncia el poema es exactamente eso, que a la mujer se le exige que un estado parezca una esencia. »\n\nEN INGLÉS SI HACE FALTA\nSer for what something is, estar for how something is right now.\n\nQUÉ HACER\nEscribe en la pizarra las dos oraciones del poema y subraya el verbo ausente.\n\nCONTROL DE TIEMPO\nDoce minutos como máximo. Si a los diez todavía hay dudas, di que la práctica está en el Supersitio y sigue.\n\nTRANSICIÓN\n« Tres imágenes del poema, y me decís qué significan. »"
+    },
+    {
+      "tipo": "banda",
+      "ventana": [
+        "16:36",
+        "16:46"
+      ],
+      "rotulo": "Las imágenes del poema",
+      "kicker": "Análisis",
+      "titulo": "Tres imágenes",
+      "chip": "Intrigas p. 21 · vocabulario",
+      "tiles": [
+        {
+          "rotulo": "Nácar",
+          "glosa": "El interior brillante de la concha. Bello, sí, pero también duro y cerrado.",
+          "imagen": "imagenes/nacar.jpg"
+        },
+        {
+          "rotulo": "Azucena",
+          "glosa": "La flor blanca de la pureza en la iconografía cristiana.",
+          "imagen": "imagenes/azucena.jpg"
+        },
+        {
+          "rotulo": "El bosque",
+          "glosa": "Adonde ella lo manda a él, a mojarse los pies y a limpiarse la boca.",
+          "imagen": "imagenes/bosque.jpg"
+        }
+      ],
+      "notas": "QUÉ HACER\nParejas. Cada pareja se queda con una imagen. Tres minutos de conversación, luego puesta en común de una pareja por imagen.\n\nGUION\n« En parejas. Cada pareja se ocupa de una sola imagen, la que os toque. Tenéis tres minutos para contestar dos preguntas. Primera, ¿qué connotación tiene esta imagen fuera del poema? Segunda, ¿qué le hace Storni? »\n\n[Al formar las parejas]\n\n« Los de esta fila, nácar. Los del centro, azucena. Los del fondo, el bosque. »\n\n[En la puesta en común]\n\n« Una pareja por imagen. Contadnos qué habéis pensado, en español, aunque sea con frases cortas. »\n\nMIENTRAS TRABAJAN\nPasa por las tres filas. A los tres minutos avisa en voz alta, «treinta segundos», y a los tres y medio corta.\n\nPARA TI\nSi nadie lo dice, apunta tú que en la segunda mitad del poema ella le devuelve la exigencia y lo manda al bosque a purificarse. Ese giro es la clave del texto.\n\nTRANSICIÓN\n« Antes de escribir, la ficha del poema. »"
+    },
+    {
+      "tipo": "datos",
+      "ventana": [
+        "16:46",
+        "16:52"
+      ],
+      "rotulo": "Ficha del poema",
+      "kicker": "Para el examen",
+      "titulo": "Los datos que hay que saber",
+      "filas": [
+        [
+          "Autora",
+          "Alfonsina Storni (1892-1938)"
+        ],
+        [
+          "Título",
+          "«Tú me quieres blanca»"
+        ],
+        [
+          "Libro",
+          "El dulce daño"
+        ],
+        [
+          "Año",
+          "1918"
+        ],
+        [
+          "País",
+          "Argentina"
+        ],
+        [
+          "Forma",
+          "Verso libre, cinco estrofas"
+        ]
+      ],
+      "pie": "Estos seis datos entran en el Examen I",
+      "notas": "GUION\n« Copiad estos seis datos. Autora, título, libro, año, país y forma. Entran en el Examen I y los vais a necesitar también para la recitación. »\n\n« Fijaos en el título del libro, El dulce daño. En mil novecientos dieciocho, una mujer que publica un libro llamado El dulce daño está diciendo algo antes incluso de que abráis el libro. »\n\n« El título del poema va entre comillas porque es un poema. El título del libro va en cursiva porque es un libro. Esa distinción la vais a usar en los dos ensayos, así que acostumbraos ahora. »\n\nPARA TI\nEsta diapositiva es la única del día que pueden fotografiar sin perderse nada. Dilo, evita que fotografíen las demás.\n\nCONTROL DE TIEMPO\nSeis minutos justos. Si vas con retraso, recorta aquí y di que la ficha está también en Canvas.\n\nTRANSICIÓN\n« Y ahora escribís vosotros. »"
+    },
+    {
+      "tipo": "oscura",
+      "ventana": [
+        "16:52",
+        "17:08"
+      ],
+      "rotulo": "Escritura en parejas",
+      "kicker": "En parejas",
+      "titulo": "Tres oraciones sobre el poema",
+      "imagen": "imagenes/magnolia_negro.jpg",
+      "items": [
+        "Una oración con ser sobre la voz poética",
+        "Una oración con estar sobre el hombre del poema",
+        "Una oración con los dos verbos sobre el final"
+      ],
+      "notas": "QUÉ HACER\nLas mismas parejas. Un folio por pareja, los dos nombres arriba. Se recoge al final de la clase.\n\nGUION\n« Las mismas parejas, un folio para los dos, escribid vuestros nombres arriba. Tres oraciones, en español, sobre el poema. »\n\n« La primera con ser, sobre la voz poética, sobre la mujer que habla. La segunda con estar, sobre el hombre al que le habla. Y la tercera tiene que llevar los dos verbos y tiene que ser sobre el final del poema. »\n\n« No busquéis la oración perfecta. Buscad la oración que dice algo. Prefiero un error de gramática con una idea a una oración correcta que no dice nada. »\n\n[A los diez minutos]\n\n« Cinco minutos. Id cerrando la tercera. »\n\n[Al cerrar]\n\n« Dos parejas nos leen la tercera oración, la de los dos verbos. »\n\nMIENTRAS TRABAJAN\nSiéntate con las parejas que estén calladas. Empieza tú la primera oración en voz alta y déjales terminarla.\n\nEN INGLÉS SI HACE FALTA\nOne sentence with ser, one with estar, one with both. Names at the top, one sheet per pair, handed in today.\n\nVARIANTE DE RESERVA\nSi la clase está por debajo de diez personas, hazlo en grupos de tres y pide cuatro oraciones.\n\nTRANSICIÓN\n« Recojo los folios en la puerta. Antes, la tarea. »"
+    },
+    {
+      "tipo": "texto",
+      "ventana": [
+        "17:08",
+        "17:15"
+      ],
+      "rotulo": "Cierre y tarea",
+      "kicker": "Para el miércoles",
+      "titulo": "Tarea",
+      "items": [
+        "Intrigas pp. 22 a 24, leer y contestar las preguntas 1 a 5",
+        "Supersitio, actividades 1.2 y 1.3, antes de las cuatro de la tarde",
+        "Traer el poema anotado a clase"
+      ],
+      "pie": "Todo está también en Canvas, en la página del miércoles",
+      "notas": "GUION\n« Para el miércoles, tres cosas. Primera, Intrigas, páginas veintidós a veinticuatro, leéis y contestáis las preguntas de la uno a la cinco. Segunda, el Supersitio, actividades uno punto dos y uno punto tres, antes de las cuatro de la tarde del miércoles. Y tercera, traed el poema, este mismo folio, con vuestras anotaciones. »\n\n« Recordad que en el Supersitio tenéis tres intentos y que cuenta el más alto. Y que entregar tarde siempre es mejor que no entregar, porque no hay hora límite después de la cual deje de contar. »\n\n« Dejadme los folios en la mesa al salir. Hasta el miércoles. »\n\nANTES DE SALIR TÚ\nCuenta los folios y compáralos con la asistencia. Anota quién no ha entregado. Recoge las copias sobrantes del poema, que sirven para el miércoles. Comprueba que el proyector queda apagado."
+    }
+  ]
+}

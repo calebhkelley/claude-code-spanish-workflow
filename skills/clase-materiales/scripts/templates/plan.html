@@ -1,0 +1,88 @@
+<!-- Plan de clase template.
+     Author the plan here, then: bash scripts/plan_to_docx.sh plan.html plan.docx
+     Colors below are the only place styling lives. Pull them from the course
+     design.json so the plan and the deck agree.
+     Tables need table-layout fixed, a width attribute and col widths, because
+     soffice drops percentage widths. -->
+<html><head><meta charset="utf-8">
+<style>
+  @page { size: 8.5in 11in; margin: 0.9in 0.9in 0.9in 0.9in; }
+  body   { font-family: "Aptos", "Calibri", sans-serif; font-size: 11pt; color: #141414; line-height: 1.35; }
+  h1     { font-family: "Univers Condensed", "Arial Narrow", sans-serif; font-size: 20pt; text-transform: uppercase;
+           letter-spacing: 1.2pt; font-weight: normal; margin: 0 0 2pt 0; }
+  h2     { font-family: "Univers Condensed", "Arial Narrow", sans-serif; font-size: 13pt; text-transform: uppercase;
+           letter-spacing: 1pt; font-weight: normal; color: #A32638; margin: 18pt 0 4pt 0;
+           border-bottom: 0.75pt solid #D8D2CC; padding-bottom: 3pt; }
+  h3     { font-size: 11.5pt; margin: 12pt 0 3pt 0; color: #141414; }
+  .meta  { color: #6E6A65; font-size: 10pt; margin: 0 0 4pt 0; }
+  .lab   { font-variant: small-caps; letter-spacing: 0.6pt; color: #A32638; font-size: 10pt;
+           text-transform: uppercase; margin: 8pt 0 2pt 0; }
+  .guion { border-left: 2.5pt solid #A32638; padding: 4pt 0 4pt 10pt; margin: 4pt 0 8pt 0; }
+  .aviso { background: #F3E7E7; border-left: 2.5pt solid #A32638; padding: 6pt 10pt; margin: 8pt 0; }
+  .nota  { background: #F5F4F1; padding: 6pt 10pt; margin: 8pt 0; font-size: 10.5pt; }
+  table  { border-collapse: collapse; table-layout: fixed; margin: 6pt 0 10pt 0; }
+  th, td { border: 0.5pt solid #D8D2CC; padding: 4pt 6pt; font-size: 10.5pt; vertical-align: top; }
+  th     { background: #F3E7E7; text-align: left; font-weight: normal; text-transform: uppercase;
+           letter-spacing: 0.6pt; font-size: 9.5pt; color: #6E6A65; }
+  ul     { margin: 3pt 0 3pt 16pt; padding: 0; }
+  li     { margin: 0 0 2pt 0; }
+</style></head><body>
+
+<h1>CURSO · Plan de clase</h1>
+<p class="meta">DÍA, FECHA EN ESPAÑOL</p>
+<p class="meta">Sección 000 · 0:00 a 0:00 · Aula 000 · Dr. Caleb H. Kelley</p>
+
+<h2>Objetivos del día</h2>
+<ul>
+  <li>Tres a cinco. Lo que la clase consigue, no lo que ocurre en ella.</li>
+</ul>
+
+<h2>Resumen del horario</h2>
+<table width="620"><col width="110"><col width="400"><col width="110">
+<tr><th>Hora</th><th>Segmento</th><th>Min</th></tr>
+<tr><td>0:00 a 0:00</td><td>Nombre del segmento</td><td>0</td></tr>
+<tr><td colspan="2" style="text-align:right"><strong>Total</strong></td><td><strong>00</strong></td></tr>
+</table>
+
+<h2>Materiales y preparación</h2>
+<ul>
+  <li>Fotocopias y cuántas.</li>
+  <li>Qué tiene que estar abierto en el proyector antes de que entren.</li>
+  <li>Qué se escribe en la pizarra.</li>
+  <li>Qué hay que comprobar antes, por ejemplo qué hay asignado de verdad en la plataforma.</li>
+</ul>
+
+<h2>0:00 a 0:00 · Nombre del segmento (0 min)</h2>
+
+<p class="lab">Qué hacer</p>
+<ul><li>Acciones físicas y de procedimiento, no lo que se dice.</li></ul>
+
+<p class="lab">Guion del profesor</p>
+<div class="guion">
+  « El español literal, en vosotros, con los números escritos como se dicen. »
+  <br><br>
+  [Acotación entre corchetes para separar las partes]
+  <br><br>
+  « Segunda parte del guion. »
+</div>
+
+<p class="lab">Preguntas para proyectar</p>
+<ul><li>La formulación exacta de lo que los estudiantes leen en la pantalla.</li></ul>
+
+<div class="aviso"><strong>Aviso de contenido.</strong> Una frase con el tema, el ofrecimiento de hablarlo en privado, y seguir.</div>
+
+<div class="nota"><strong>Nota.</strong> Algo solo para ti.</div>
+
+<h2>Tarea para el próximo día</h2>
+<ol>
+  <li>Repetida aquí aunque ya esté en el guion del cierre.</li>
+</ol>
+
+<h2>Si el tiempo se descuadra</h2>
+<ul>
+  <li><strong>Si vas con retraso.</strong> Recorta este segmento concreto.</li>
+  <li><strong>Si sobra tiempo.</strong> Amplía este otro.</li>
+  <li><strong>Prioridad si hay que recortar.</strong> Este segmento tiene que sobrevivir.</li>
+</ul>
+
+</body></html>
